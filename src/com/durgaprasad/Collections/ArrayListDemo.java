@@ -4,6 +4,19 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
+/**
+ *
+ * Things to Learn:
+ * UNDERSTANDING METHOD BINDING IN JAVA
+ *
+ * Things Learnt
+ * Implementing Collection and List interface.
+ * Using basic operations like add(), remove(), set() methods on ArrayList.
+ * Using bulk operations like removeAll(), retainAll() methods on ArrayList.
+ * Using sublist operation and understanding its behaviour.
+ * Using for each loop to iterate ArrayList.
+ */
+
 public class ArrayListDemo {
     public static void arrayListDemo(){
         // Creating an ArrayList to store integers.
@@ -25,7 +38,7 @@ public class ArrayListDemo {
         list1.remove(null);
         System.out.println("The elements of list1 are : " + list1);
 
-        // TO Learn more about method signature binding.
+        // To Learn more about method signature binding.
         List<Integer> list2 = new ArrayList<>();
         list2.add(1);
         list2.add(2);
