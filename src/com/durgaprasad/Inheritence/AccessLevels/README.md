@@ -6,7 +6,7 @@ eg:
 * class Staff extends User
 * class Editor extends Staff  
 
-**public** members can be accessed by all subclasses.
-**private** members cannot be accessed by all subclasses.
-**default** members can be accessed by all subclasses present in a package.
-**protected** members can be accesed by all subclasses present in and out of the package.
+**public** members can be accessed by all subclasses.  
+**private** members cannot be accessed by all subclasses.   
+**default** members can be accessed by all subclasses present in a package.  
+**protected** members can be accesed by all subclasses present in and out of the package.  
