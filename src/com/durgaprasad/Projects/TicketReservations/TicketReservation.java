@@ -1,4 +1,4 @@
-package com.durgaprasad.TicketReservations;
+package com.durgaprasad.Projects.TicketReservations;
 
 import java.util.*;
 

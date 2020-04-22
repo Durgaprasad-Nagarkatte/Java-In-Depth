@@ -1,6 +1,4 @@
-package com.durgaprasad.Books;
-
-import java.util.Comparator;
+package com.durgaprasad.Projects.Books;
 
 public class Book implements Comparable {
     private String title;

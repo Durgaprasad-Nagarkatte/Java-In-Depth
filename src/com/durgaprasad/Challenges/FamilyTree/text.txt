@@ -1,0 +1,16 @@
+ADD_CHILD Chitra Aria Female
+ADD_CHILD Lika Aria Female
+ADD_CHILD Jaya Aria Female
+ADD_CHILD Lavnya Aria Female
+ADD_CHILD Atya Aria Female
+GET_RELATIONSHIP Aria Paternal-Aunt
+GET_RELATIONSHIP Lavnya Maternal-Uncle
+ADD_CHILD Satya Yaya Female
+GET_RELATIONSHIP Satvy Sister-In-Law
+GET_RELATIONSHIP Ish Siblings
+GET_RELATIONSHIP Chit Brother-In-Law
+GET_RELATIONSHIP Jaya Brother-In-Law
+GET_RELATIONSHIP Vasa Siblings
+ADD_CHILD Asva Vani Female
+GET_RELATIONSHIP Atya Sister-In-Law
+
