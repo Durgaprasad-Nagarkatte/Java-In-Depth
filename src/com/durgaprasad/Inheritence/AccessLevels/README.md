@@ -1,5 +1,5 @@
 Trying to learn **Inheritence** feature in Java.  
-A class can inherit features from another using "extends" keyword.
+A class can inherit features from another class using "extends" keyword.
 Inheritence helps to reuse code. Should be used only when **IS-A** test holds true.
 
 eg:
